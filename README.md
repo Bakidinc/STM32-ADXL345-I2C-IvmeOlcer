@@ -5,9 +5,8 @@ STM32 mikrodenetleyici ile ADXL345 ivmeölçer sensörü I2C üzerinden haberle�
 Bu proje, STM32 mikrodenetleyici kullanılarak ADXL345 ivmeölçer sensöründen I2C protokolüyle veri okumayı ve okunan X, Y, Z eksen verilerini UART ile seri port üzerinden aktarmayı amaçlar.
 
 ## 🧰 Kullanılan Donanımlar
-- STM32 Nucleo Board (örneğin: F401RE)
+- STM32 Nucleo Board (örneğin: F410RB)
 - ADXL345 İvmeölçer Sensörü (I2C bağlantılı)
-- USB-TTL dönüştürücü (UART görüntüleme için, opsiyonel)
 
 ## 🔌 Bağlantılar
 | STM32 Pin | ADXL345 Pin |
